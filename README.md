@@ -33,9 +33,11 @@ conditions to represent those setups:
 
 Using this, we can build an extremely simple level:
 
+```
 #####
 #.o@#
 #####
+```
 
 This level is completely surrounded by walls, as all Sokoban levels must be.
 Walls are, of course, impassable. In the center we have from left to right: A
@@ -52,9 +54,11 @@ crates are on storage spaces.
 Given those rules, we can solve our level above with a single move to the left,
 yielding:
 
+```
 #####
 #*@ #
 #####
+```
 
 That simple system can lead to some surprisingly complicated mind benders, but
 please don't take my word for it. A set of levels to test your game engine and
