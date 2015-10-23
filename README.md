@@ -1,4 +1,7 @@
-## SDRuby Magic Night
+# SDRuby Magic Night
+
+## https://github.com/magicnights/sokoban
+
 Ruby isn't the only good thing to come out of Japan. The computer game Sokoban,
 invented by Hiroyuki Imabayashi, was introduced by Thinking Rabbit of
 Takarazuka, Japan in 1982. This simple game of logic puzzles was an instant
